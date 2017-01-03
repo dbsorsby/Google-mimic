@@ -1,0 +1,117 @@
+body {
+  margin-top: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+}
+.navb:hover {
+  color: white;
+}
+.navb {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  color: #b3b3b3;
+  padding: 6px;
+  hover: white;
+}
+nav {
+  background-color: black;
+  padding: 3px;
+}
+select {
+  background-color: black;
+  color: #b3b3b3;
+  border: none;
+}
+select:hover {
+  color: white;
+}
+#signin {
+  margin-left: 850px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  color: #b3b3b3;
+  padding: 5px;
+}
+#signin:hover {
+  color: white;
+}
+img {
+  display: block;
+  margin: auto;
+}
+#gpic {
+  margin-top: 60px;
+}
+#stable {
+  margin: auto;
+}
+#search {
+  margin-top: 25px;
+}
+input {
+  line-height: 25px;
+}
+#ntsearch {
+  margin-top: 20px;
+}
+.ntsearch {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+  color: blue;
+  padding: 5px;
+}
+.ntsearch:hover {
+  color: #000033;
+}
+.sbutton {
+  height: 35px;
+  width: 150px;
+  background-color: silver;
+}
+#sbutton {
+  margin-top: 8px;
+  margin-left: 520px;
+}
+.abag {
+  text-decoration: none;
+  color: blue;
+  padding: 7px;
+}
+#abag {
+  margin: auto;
+  margin-top: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+.abag:hover {
+  color: #000033;
+}
+#tpriv {
+  margin: auto;
+  margin-top: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+#priv {
+  text-decoration: none;
+  color: blue;
+}
+#priv:hover {
+  color: #000033;
+}
+#cbi {
+  text-decoration: none;
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+}
+#dcbi {
+  margin-top: 65px;
+  margin-left: 8px;
+}
+#cbi:hover {
+  color: #000033;
+}
